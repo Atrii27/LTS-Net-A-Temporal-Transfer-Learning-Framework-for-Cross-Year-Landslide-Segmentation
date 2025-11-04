@@ -1,4 +1,4 @@
-#  Landslide Automation Segmentation using Deep Learning  
+#  LTS-Net: A Temporal Transfer Learning Framework for Cross-Year Landslide Segmentation
 
 This project develops and evaluates **five deep learning architectures** —  
 **U-Net**, **ResU-Net**, **Attention U-Net**, **Attention ResU-Net**, and **ASDMS U-Net** —  
@@ -138,4 +138,5 @@ Output Files include:
 ## How to Run
 ### Install Dependencies 
 pip install -r requirements.txt
+
 
