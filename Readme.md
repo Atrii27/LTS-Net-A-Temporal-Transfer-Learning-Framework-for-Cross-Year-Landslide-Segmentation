@@ -7,7 +7,14 @@ for **landslide detection and segmentation** using **PlanetScope AnalyticMS 8-ba
 The models are **trained on 2024 satellite data** and **tested on 2022 imagery** to evaluate  
 **cross-year generalization**, a crucial benchmark for **temporal transferability** in  
 Earth observation and geohazard mapping.  
-
+---
+## Project Title
+*LTS-Net: A Temporal Transfer Learning Framework for Cross-Year Landslide Segmentation**  
+**Supervised by:**  
+*Dr. Yunus Ali Pulpadan* — Assistant Professor, Earth and Environmental Science (EES), IISER Mohali  
+**Developed by:**  
+*Atrii Roy* — 3rd Year BS (Hons.) Data Science & Artificial Intelligence, IIT Guwahati  
+---
 ---
 
 ##  Dataset Context
@@ -131,3 +138,4 @@ Output Files include:
 ## How to Run
 ### Install Dependencies 
 pip install -r requirements.txt
+
